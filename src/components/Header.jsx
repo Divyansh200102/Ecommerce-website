@@ -17,7 +17,7 @@ const Header = ({ isMenuOpen, setIsMenuOpen }) => {
           
           {/* Logo and Brand Name */}
           <div className="flex items-center space-x-3">
-            <img src="src\assets\images\logo.png" alt="Brand Logo" className="h-10 w-10 rounded-2xl" />
+            <img src="/images/logo.png" alt="Brand Logo" className="h-10 w-10 rounded-2xl" />
             <div className="text-3xl font-bold font-display tracking-tight">ElegantMart</div>
           </div>
           
